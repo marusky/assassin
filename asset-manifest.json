@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/assassin/static/css/main.88dae223.chunk.css",
+    "main.js": "/assassin/static/js/main.2254c0de.chunk.js",
+    "main.js.map": "/assassin/static/js/main.2254c0de.chunk.js.map",
+    "runtime-main.js": "/assassin/static/js/runtime-main.7e0bb256.js",
+    "runtime-main.js.map": "/assassin/static/js/runtime-main.7e0bb256.js.map",
+    "static/js/2.b340f584.chunk.js": "/assassin/static/js/2.b340f584.chunk.js",
+    "static/js/2.b340f584.chunk.js.map": "/assassin/static/js/2.b340f584.chunk.js.map",
+    "static/js/3.19476a4f.chunk.js": "/assassin/static/js/3.19476a4f.chunk.js",
+    "static/js/3.19476a4f.chunk.js.map": "/assassin/static/js/3.19476a4f.chunk.js.map",
+    "index.html": "/assassin/index.html",
+    "static/css/main.88dae223.chunk.css.map": "/assassin/static/css/main.88dae223.chunk.css.map",
+    "static/js/2.b340f584.chunk.js.LICENSE.txt": "/assassin/static/js/2.b340f584.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e0bb256.js",
+    "static/js/2.b340f584.chunk.js",
+    "static/css/main.88dae223.chunk.css",
+    "static/js/main.2254c0de.chunk.js"
+  ]
+}
